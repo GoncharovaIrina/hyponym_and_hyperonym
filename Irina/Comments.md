@@ -14,3 +14,6 @@ https://pandas.pydata.org/pandas-docs/version/0.18/merging.html
 План по обучению нейросетям и deep learning
 https://proglib.io/p/deep-learning-in-6-weeks/
 
+настройка спайси
+https://textacy.readthedocs.io/en/stable/api_reference.html#module-textacy.tm.topic_model
+
