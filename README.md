@@ -19,3 +19,13 @@ Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.)
  
 https://github.com/gbcolborne/hypernym_discovery
 
+https://github.com/dialogue-evaluation/GramEval2020
+
+оценочные метрики
+https://github.com/dialogue-evaluation/taxonomy-enrichment/blob/master/evaluate.py
+
+dialogue-evaluation
+https://github.com/dialogue-evaluation/taxonomy-enrichment/blob/master/baselines/README.md
+
+описание исх данных
+https://docs.google.com/document/d/1JI9nWJfTEB4NA5nqVBiaGxkQFFLXoev0811xt7-4USk/edit
