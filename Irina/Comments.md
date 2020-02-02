@@ -19,3 +19,6 @@ https://textacy.readthedocs.io/en/stable/api_reference.html#module-textacy.tm.to
 
 описание данных
 https://docs.google.com/document/d/1JI9nWJfTEB4NA5nqVBiaGxkQFFLXoev0811xt7-4USk/edit
+
+русский space, токенайзер для русского языка
+https://github.com/aatimofeev/spacy_russian_tokenizer
