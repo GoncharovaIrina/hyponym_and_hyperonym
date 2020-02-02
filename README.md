@@ -11,5 +11,6 @@ https://competitions.codalab.org/competitions/22168
 Useful materials for participants of the Dialogue 2020 shared task on taxonomy enrichment
 https://github.com/dialogue-evaluation/taxonomy-enrichment
 
+# Иное
 Решение с использованием BERT и интересный код для ознакомления
 https://github.com/gbcolborne/hypernym_discovery
