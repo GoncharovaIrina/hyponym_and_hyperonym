@@ -17,3 +17,5 @@ https://proglib.io/p/deep-learning-in-6-weeks/
 настройка спайси
 https://textacy.readthedocs.io/en/stable/api_reference.html#module-textacy.tm.topic_model
 
+описание данных
+https://docs.google.com/document/d/1JI9nWJfTEB4NA5nqVBiaGxkQFFLXoev0811xt7-4USk/edit
