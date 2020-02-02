@@ -12,5 +12,10 @@ Useful materials for participants of the Dialogue 2020 shared task on taxonomy e
 https://github.com/dialogue-evaluation/taxonomy-enrichment
 
 # Иное
-Решение с использованием BERT и интересный код для ознакомления
+
+Решение с использованием BERT и интересный код для ознакомления (в некоторых файлах впечатляет комментарий:
+Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
+Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.)
+ 
 https://github.com/gbcolborne/hypernym_discovery
+
