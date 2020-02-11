@@ -22,3 +22,6 @@ https://docs.google.com/document/d/1JI9nWJfTEB4NA5nqVBiaGxkQFFLXoev0811xt7-4USk/
 
 русский space, токенайзер для русского языка
 https://github.com/aatimofeev/spacy_russian_tokenizer
+
+метрики работы алгоритма
+https://habr.com/ru/company/ods/blog/328372/
